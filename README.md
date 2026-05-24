@@ -50,7 +50,9 @@ IEEE · Mar 2024
 
 ## 📊 GitHub Stats
 
-![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kmathew994&show_icons=true&theme=dark&hide_border=true)
+![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kmathew994&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kmathew994&layout=compact&theme=dark&hide_border=true)
 
 ---
 
