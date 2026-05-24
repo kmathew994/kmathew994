@@ -48,12 +48,13 @@ IEEE · Mar 2024
 
 ---
 
-## 📊 GitHub Stats
+## 📊 My Work
 
-![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kmathew994&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kmathew994&layout=compact&theme=dark&hide_border=true)
-
+| Project | Tech | Status |
+|---|---|---|
+| 🤖 Agentic AI Financial Analyser | LangGraph · Claude · Streamlit | ✅ Live |
+| 🚀 Gen AI Text Generation App | Azure AI Foundry · Streamlit | ✅ Live |
+| 🏥 Hospital Management System | PLpgSQL | ✅ Complete |
 ---
 
 ## 🤝 Let's Connect!
